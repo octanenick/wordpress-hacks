@@ -1,2 +1,5 @@
 # wordpress-hacks
-tools to work with wordpress fast as fuck
+
+1. filter by ACF true/false
+
+
